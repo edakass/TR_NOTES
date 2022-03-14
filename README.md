@@ -30,3 +30,39 @@ Telnet'in güvenlik kısmı olmadığı için ilk olarak onun yedeği olarak ort
 - ### Kernel ve Shell arasındaki fark nedir?
 
 Kernel, bir linux işletim sisteminin ana bileşenidir ve bir bilgisayarın donanımı ile ilgili süreçleri yönetir. Shell, bir kullanıcı ile bir işletim sistemi çekirdeği arasında bir arayüz sağlayan bir programdır.Kernel temel işlemleri yapıyor.(Dosya işlemleri vs)
+
+- ### SSL nedir?
+
+SL (Secure Sockets Layer) sertifikaları, site adreslerinin doğruluğunu kontrol eden, iki nokta arasındaki veri iletişimini şifreli kanal üzerinden yaparak güvenli bir şekilde iletilmesini sağlayan bir üründür. SSL sertifikaları, hiç bir zaman yazdığınız kodun veya web sitenizin güvenliğini sağlamaz.
+
+
+- ### HSTS (HTTP Strict Transport Security) nedir?
+
+User-Agentlara ve web tarayıcılarına en baştan ve tarayıcıya geri gönderilen bir yanıt başlığı üzerinden bağlantılarını nasıl kullanacaklarını bildiren bir web sunucusu yönergesidir. Kısaca HSTS, web sunucunuz veya web barındırma hizmetiniz için güvenlik ayarları ile ilgili tam güvenliği sağlayabilecek yoldur.
+
+
+- ### SSL nedir?
+- 
+- ### SSL nedir?
+- 
+- ### SSL nedir?
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
