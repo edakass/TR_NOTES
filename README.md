@@ -41,7 +41,10 @@ SL (Secure Sockets Layer) sertifikaları, site adreslerinin doğruluğunu kontro
 User-Agentlara ve web tarayıcılarına en baştan ve tarayıcıya geri gönderilen bir yanıt başlığı üzerinden bağlantılarını nasıl kullanacaklarını bildiren bir web sunucusu yönergesidir. Kısaca HSTS, web sunucunuz veya web barındırma hizmetiniz için güvenlik ayarları ile ilgili tam güvenliği sağlayabilecek yoldur.
 
 
-- ### SSL nedir?
+- ### IP Spoofing nedir?
+
+IP spoofing veya IP sahteciliği, sahte kaynak IP adresi ile Internet Protokolü paketlerinin oluşturulmasıdır.
+
 - 
 - ### SSL nedir?
 - 
