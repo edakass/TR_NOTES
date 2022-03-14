@@ -20,4 +20,4 @@ Bridged Köprüleme ile, sanal makine dışardaki Ethernet ağına doğrudan eri
 
 - ### <a href="https://www.vulnhub.com/">Vulnhub</a> Nedir?
 
-Vulnhub farkı makinaları site üzerinden deploy etmek yerine kendi bilgisayarınıza sanal makina olarak kurup sızmaya çalışıyorsunuz. Makinaları kurup sızma testi gerçekleştirebilirsiniz. (Wakanda,Mr-Robot etc)
+Vulnhub farkı makinaları site üzerinden deploy etmek yerine kendi bilgisayarınıza sanal makina olarak kurup sızmaya çalışıyorsunuz. Makinaları kurup sızma testi gerçekleştirebilirsiniz. (Wakanda,Mr-Robot vb)
