@@ -45,12 +45,8 @@ User-Agentlara ve web tarayıcılarına en baştan ve tarayıcıya geri gönderi
 
 IP spoofing veya IP sahteciliği, sahte kaynak IP adresi ile Internet Protokolü paketlerinin oluşturulmasıdır.
 
-- 
-- ### SSL nedir?
-- 
-- ### SSL nedir?
-- 
-
+- ###
+- ### 
 
 
 
