@@ -21,3 +21,12 @@ Bridged Köprüleme ile, sanal makine dışardaki Ethernet ağına doğrudan eri
 - ### <a href="https://www.vulnhub.com/">Vulnhub</a> Nedir?
 
 Vulnhub farkı makinaları site üzerinden deploy etmek yerine kendi bilgisayarınıza sanal makina olarak kurup sızmaya çalışıyorsunuz. Makinaları kurup sızma testi gerçekleştirebilirsiniz. (Wakanda,Mr-Robot vb)
+
+- ### Ssh ve Telnet arasındaki fark nedir?
+
+Telnet'in güvenlik kısmı olmadığı için ilk olarak onun yedeği olarak ortaya çıkmıştır. Şuanda da uzak makine bağlantılarında en çok kullanılan protokoldür. Telnet'in aksine SSH güvenlik konusuna önem vermiş olup iletişimin şifreli olarak iletilmesini sağlamıştır.
+
+
+- ### Kernel ve Shell arasındaki fark nedir?
+
+Kernel, bir linux işletim sisteminin ana bileşenidir ve bir bilgisayarın donanımı ile ilgili süreçleri yönetir. Shell, bir kullanıcı ile bir işletim sistemi çekirdeği arasında bir arayüz sağlayan bir programdır.
