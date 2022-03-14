@@ -29,4 +29,4 @@ Telnet'in güvenlik kısmı olmadığı için ilk olarak onun yedeği olarak ort
 
 - ### Kernel ve Shell arasındaki fark nedir?
 
-Kernel, bir linux işletim sisteminin ana bileşenidir ve bir bilgisayarın donanımı ile ilgili süreçleri yönetir. Shell, bir kullanıcı ile bir işletim sistemi çekirdeği arasında bir arayüz sağlayan bir programdır.
+Kernel, bir linux işletim sisteminin ana bileşenidir ve bir bilgisayarın donanımı ile ilgili süreçleri yönetir. Shell, bir kullanıcı ile bir işletim sistemi çekirdeği arasında bir arayüz sağlayan bir programdır.Kernel temel işlemleri yapıyor.(Dosya işlemleri vs)
