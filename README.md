@@ -58,7 +58,9 @@ IP spoofing veya IP sahteciliği, sahte kaynak IP adresi ile Internet Protokolü
 
 - ### Level 0 → Level 1
 
+###SSH NEDİR?
 
+SSH (Secure Shell), ağ üzerinde bulunan bir sunucuya bağlanmaya ve bağlanılan sunucu üzerinde komut çalıştırma, dosya transferi gibi işlemleri gerçekleştirmeye olanak sağlayan bir uzak sunucu bağlantı protokolüdür.
 
 
 
