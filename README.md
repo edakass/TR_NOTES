@@ -54,6 +54,7 @@ IP spoofing veya IP sahteciliği, sahte kaynak IP adresi ile Internet Protokolü
 
 ![image](https://user-images.githubusercontent.com/61595808/158648659-9f44fd20-4800-4525-8705-27903f2c7f89.png)
 
+![image](https://user-images.githubusercontent.com/61595808/158648993-3065f96f-0bea-4484-b470-f755e35eb9a0.png)
 
 
 
