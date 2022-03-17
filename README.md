@@ -47,6 +47,8 @@ IP spoofing veya IP sahteciliği, sahte kaynak IP adresi ile Internet Protokolü
 
 > ### OverTheWire
 
+Her Level için şifreyi not almayı unutma.
+
 - ### Level 0 
 
 ![image](https://user-images.githubusercontent.com/61595808/158646693-5049e7d8-2a8d-40eb-9bfb-eb9f1cb7a47c.png)
