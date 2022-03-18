@@ -60,6 +60,7 @@ Her Level için şifreyi not almayı unutma.
 
 - ### Level 0 → Level 1
 
+>
 ### SSH NEDİR?
 
 SSH (Secure Shell), ağ üzerinde bulunan bir sunucuya bağlanmaya ve bağlanılan sunucu üzerinde komut çalıştırma, dosya transferi gibi işlemleri gerçekleştirmeye olanak sağlayan bir uzak sunucu bağlantı protokolüdür.
