@@ -67,6 +67,8 @@ SSH (Secure Shell), ağ üzerinde bulunan bir sunucuya bağlanmaya ve bağlanıl
 
 
 
+Wakanda
+
 
 
 
