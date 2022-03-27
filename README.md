@@ -1,6 +1,7 @@
 # TR_NOTES
 My Cyber Security Notes
 
+# 07.03.2022
 
 # 14.03.2022
 
@@ -70,7 +71,26 @@ SSH (Secure Shell), ağ üzerinde bulunan bir sunucuya bağlanmaya ve bağlanıl
 Wakanda
 
 
+# 21.03.2022
 
+1.Virtual Box
+2.Kali Linux
+3.Wakanda CTF yapılacak.
+
+- Makineye bağlanmak için ilk önce port taraması, aynı Nat'ta olmalı,ip adresibi aramalıyız.
+- Port taraması nmap ile yapılıyor.
+- ssh portu 22 nolu porttur.
+- dirbis,dirbuster,nikto/OWASP/burpsuite
+- wakanda seçiliyken ayarlardan usb'yi seçiliyi kaldırmalısın.
+- port scanning araştır
+- Kali de wakandayı kurduktan sonra yazman gerekenler
+           *sudo su
+           *nmap -r 10.0.2.0/24
+           *nmap -sS -sv -A -p- 10.0.2.4
+           *setxbmap tr ->klavyeyi ingilizceye çevirmek için  
+ 
+
+- https://aysenurilhan98.medium.com/wakanda-1-hack-ctf-c13acd532181 buradaki yazıyı oku.           
 
 
 
