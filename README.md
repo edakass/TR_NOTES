@@ -113,3 +113,10 @@ Mr.Robot için https://okankurtulus.com.tr/2018/09/23/mr-robot-walkthrough-zafiy
 
 
 ![image](https://user-images.githubusercontent.com/61595808/163200092-91bfcebb-5433-45a9-872a-e47921d56749.png)
+
+
+Wakanda
+
+
+![image](https://user-images.githubusercontent.com/61595808/163623549-6f1c2799-713b-4977-afd8-0bacf85dfabe.png)
+
